@@ -115,6 +115,7 @@ export const From = styled.div`
   line-height: normal;
   letter-spacing: -0.24px;
   margin-top: 30px;
+  margin-bottom: 25px;
 `;
 
 export const Lion = styled.div`
