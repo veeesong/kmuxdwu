@@ -3,11 +3,11 @@ import { createGlobalStyle } from "styled-components";
 const GlobalStyle = createGlobalStyle`
   @font-face {
 	font-family: 'Pretendard Variable';
-	font-weight: 45 920;
+	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 	src: url('./woff2/PretendardVariable.woff2') format('woff2-variations');
-}
+  }
 
   @font-face {
     font-family: 'DNFBitBitv2';
