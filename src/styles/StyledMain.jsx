@@ -94,7 +94,8 @@ export const Text = styled.div`
   letter-spacing: -0.3px;
   margin-top: 24px;
 
-  span {
+  a {
+    color: #202020;
     font-weight: 700;
     text-decoration-line: underline;
     text-decoration-style: solid;
@@ -163,7 +164,7 @@ export const Name = styled.div`
     border: 1px solid #cc354b;
     color: black;
     font-family: "Pretendard Variable";
-    font-size: 15px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -176,7 +177,7 @@ export const Name = styled.div`
   input::placeholder {
     color: #888787;
     font-family: "Pretendard Variable";
-    font-size: 15px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -210,7 +211,7 @@ export const Number = styled.div`
     border: 1px solid #cc354b;
     color: black;
     font-family: "Pretendard Variable";
-    font-size: 15px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -223,7 +224,7 @@ export const Number = styled.div`
   input::placeholder {
     color: #888787;
     font-family: "Pretendard Variable";
-    font-size: 15px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -257,7 +258,7 @@ export const Phone = styled.div`
     border: 1px solid #cc354b;
     color: black;
     font-family: "Pretendard Variable";
-    font-size: 15px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -270,7 +271,7 @@ export const Phone = styled.div`
   input::placeholder {
     color: #888787;
     font-family: "Pretendard Variable";
-    font-size: 15px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;

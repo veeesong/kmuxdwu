@@ -4,12 +4,12 @@ export const Container = styled.div`
   position: relative;
   margin: 0 auto;
   margin-top: 0px;
-  padding: 0; /* 불필요한 패딩 제거 */
+  padding: 30px 0; /* 불필요한 패딩 제거 */
   box-sizing: border-box; /* 패딩이 width에 포함되도록 설정 */
   display: flex;
   flex-direction: column;
   width: 393px;
-  height: 100%;
+  height: 100vh;
   //   justify-content: center;
   align-items: center;
   overflow-x: hidden;
@@ -26,10 +26,10 @@ export const Container = styled.div`
 `;
 
 export const Background = styled.div`
-  margin-top: 30px;
-  margin-bottom: 30px;
+  // margin-top: 30px;
+  // margin-bottom: 30px;
   width: 343px;
-  height: 784px;
+  height: 800px;
   flex-shrink: 0;
   background: #fff;
   box-shadow: 0px 0px 10px 0px #fff;
