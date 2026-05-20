@@ -69,7 +69,7 @@ const Main = ({ dataList }) => {
         <M.Title>
           KMU X DWU
           <br />
-          연합 프로젝트
+          연합 프로젝트 소개
         </M.Title>
         <M.Content>
           <M.Title>진행 방식</M.Title>
